@@ -1,0 +1,22 @@
+{
+  "server": {
+    "port": 8080,
+    "database": {
+      "name": "postgres",
+      "user": "jukegod",
+      "pass": "+W9fhuAnMl?pB7rR3{OQxN+g}QYU",
+      "host": "jukeboxddb.cqu68g53egxs.us-east-2.rds.amazonaws.com",
+      "port": "5432"
+    }
+  },
+  "spotify": {
+    "url": {
+      "token": "https://accounts.spotify.com/api/token",
+      "api": "https://api.spotify.com/v1/"
+    },
+    "client": {
+      "secret": "fdad6a72f10b413d8a05b2206b1f265d",
+      "id": "4d0a47e081ad43bf8b9a5ad9a420f989"
+    }
+  }
+}
