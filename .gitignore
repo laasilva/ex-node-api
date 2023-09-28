@@ -24,4 +24,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # environment variables
-/config/default.json
+/config/*.json
+coonfig/*.json
